@@ -9,9 +9,8 @@ class EmailAddressParser
 
   def initialize(emails)
     @emails = emails
-    @@emails << self
   end
-  
+
 
 
 end
